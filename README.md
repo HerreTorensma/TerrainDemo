@@ -23,6 +23,7 @@ Mirrored Iceland
 
 The heightmap used to generate the terrain geometry:
 ![Iceland](textures/iceland.png)
+Each pixel has a grayscale value of 0 - 255 which are the y coordinates (although scaled) of the vertices in the terrain geometry.
 
 ## About the code
 The code was based off the second OpenGL assignment, changed significantly to fit my needs.
