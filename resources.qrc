@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/vertshader_terrain.glsl</file>
+        <file>shaders/fragshader_terrain.glsl</file>
+        <file>shaders/vertshader_lava.glsl</file>
+        <file>shaders/fragshader_lava.glsl</file>
+        <file>shaders/vertshader_skybox.glsl</file>
+        <file>shaders/fragshader_skybox.glsl</file>
+
+        <file>textures/iceland.png</file>
+        <file>textures/iceland_lores.png</file>
+        <file>textures/world.png</file>
+        <file>textures/grass.png</file>
+        <file>textures/ground.png</file>
+        <file>textures/lava.png</file>
+        
+        <file>textures/skybox/back.png</file>
+        <file>textures/skybox/bottom.png</file>
+        <file>textures/skybox/front.png</file>
+        <file>textures/skybox/left.png</file>
+        <file>textures/skybox/right.png</file>
+        <file>textures/skybox/top.png</file>
+    </qresource>
+</RCC>
